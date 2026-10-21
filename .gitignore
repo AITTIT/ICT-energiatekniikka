@@ -1,0 +1,17 @@
+# Local installer
+*.deb
+
+# Common generated output
+build/
+Debug/
+Release/
+out/
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Local editor and OS files
+.DS_Store
+*~
